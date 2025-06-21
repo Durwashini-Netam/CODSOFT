@@ -18,15 +18,16 @@ This is a **responsive and elegant landing page** built using HTML and CSS, desi
 
 ## 📸 Screenshot
 
-![Landing Page Preview](./Screenshot%20(141))
-
-## 🔗 Live Demo  
-[Click here to view the live site](https://durwashini-netam.github.io/CODSOFT/)
+![Landing Page Preview](Screenshot%20(141).png)
 
 
+### 🔗 Live Demo  
+[Click here to view live](https://durwashini-netam.github.io/CODSOFT/Task-2/index.html)
 
 ## 🧑‍💻 Developed By
 
 **Durwashini Netam**  
 📧 support@durwabag.com  
 🔗 [GitHub Profile](https://github.com/Durwashini-Netam)
+
+
