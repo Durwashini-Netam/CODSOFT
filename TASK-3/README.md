@@ -31,39 +31,31 @@ This is a **basic calculator web app** built using **HTML**, **CSS**, and **Java
 2. Open the folder.
 3. Run `index.html` in your browser.
 
-```bash
-# If using Live Server:
-Open with Live Server in VS Code
+## If using Live Server:
+Open with Live Server in VS Code 
 
-
-## 🚀 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
----
 
 ##  About Me
-
 **Durwashini Netam**  
 Web Development Intern (June Batch B32)  
 📧 durwashininetam@gmail.com  
 📞 6268639904  
 💼 [LinkedIn](https://www.linkedin.com/in/durwashini-netam-146b)
 
----
+
 
 ##  Project Status
 
 ✅ Completed and tested on desktop browsers  
 🔜 Ready for submission or deployment
 
----
 
 ## License
 
 This project is open for educational and internship portfolio use.
 
 This project is licensed under the [MIT License](./LICENSE).
+
+
+
 
