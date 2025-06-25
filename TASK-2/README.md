@@ -23,7 +23,7 @@ This is a **responsive and elegant landing page** built using HTML and CSS, desi
 
 ### 🔗 Live Demo
 
-👉 [Click here to view live](https://durwashini-netam.github.io/CODSOFT/TAsk-2/index.html)
+👉 [Click here to view live](https://durwashini-netam.github.io/CODSOFT/TASK-2/index.html)
 
 
 ## 🧑‍💻 Developed By
