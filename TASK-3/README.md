@@ -34,6 +34,10 @@ This is a **basic calculator web app** built using **HTML**, **CSS**, and **Java
 ## If using Live Server:
 Open with Live Server in VS Code 
 
+### 🔗 Live Demo
+
+👉 [Click here to view live](https://durwashini-netam.github.io/CODSOFT/TASK-3/index.html)
+
 
 ##  About Me
 **Durwashini Netam**  
