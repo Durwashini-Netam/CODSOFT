@@ -36,10 +36,8 @@ Create a personal portfolio webpage that includes details like:
 
 > 📌 *Replace above image names with your actual screenshots!*
 
-## 🚀 Live Demo
-
-Click here to view the live version of the portfolio:  
-🔗 [Click here to view the live portfolio](https://durwashini-netam.github.io/CODSOFT/Task-1/)
+## 🚀 Live Demo 
+🔗 [Click here to view the live portfolio]( https://durwashini-netam.github.io/CODSOFT/TASK-1/)
 
 ## 📝 Author
 
