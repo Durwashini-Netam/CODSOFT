@@ -39,7 +39,7 @@ Create a personal portfolio webpage that includes details like:
 ## 🚀 Live Demo
 
 Click here to view the live version of the portfolio:  
-🔗 [Live Portfolio Website](https://durwashini-netam.github.io/CODSOFT/Task1/)
+🔗 [Live Portfolio Website](https://durwashini-Netam.github.io/CODSOFT/Task1/)
 
 > *Update the link above after deployment if needed.*
 
