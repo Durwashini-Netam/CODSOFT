@@ -36,7 +36,7 @@ Open with Live Server in VS Code
 
 ### 🔗 Live Demo
 
-👉 [Click here to view live](https://durwashini-netam.github.io/CODSOFT/TASK-3/index.html)
+👉 [Click here to view live](https://durwashini-netam.github.io/CODSOFT/codsoft_task3/index.html)
 
 
 ##  About Me
