@@ -35,7 +35,7 @@ Create a personal portfolio webpage that includes details like:
 | ![Desktop Screenshot](./Screenshot-desktop.png) | ![Mobile Screenshot](./Screenshot-mobile.png) |
 
 ## 🚀 Live Demo 
-🔗 [Click here to view the live portfolio]( https://durwashini-netam.github.io/CODSOFT/TASK-1/)
+🔗 [Click here to view the live portfolio]( https://durwashini-netam.github.io/CODSOFT/codsoft_task1/)
 
 ## 📝 Author
 
